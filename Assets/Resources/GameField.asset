@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 852a046384c344ab88ce94a6d2f6040d, type: 3}
+  m_Name: GameField
+  m_EditorClassIdentifier: 
+  OnGameFieldUpdated: {fileID: 11400000, guid: 590da4e84f00e1444881744dea355980, type: 2}

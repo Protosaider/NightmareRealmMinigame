@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0ed57787ae54579a7f9680d0228bcb2, type: 3}
+  m_Name: GameFieldCellsData
+  m_EditorClassIdentifier: 
+  _markerTypeOne: {fileID: 11400000, guid: 450ba0e92d70204409de34d02e48d4e5, type: 2}
+  _markerTypeTwo: {fileID: 11400000, guid: 69edda74d14810b4fab0ebe3e2c52c43, type: 2}
+  _markerTypeThree: {fileID: 11400000, guid: 707df9042d0411b43bc9b42461fffd77, type: 2}
+  _blockage: {fileID: 11400000, guid: 36cd24de7e982b8469d36668ab11a963, type: 2}
